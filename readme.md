@@ -8,4 +8,4 @@ soln00-problemDescription.js
 ```
 Never too late to sharpen your skills. Here's a link for [Codewars](www.codewars.com/r/PhMNrA) if you're interested. 
 
-My current favorite one I have done is: [makeUppercase](./soln02-makeUpperCase.js)
+My current favorite one I have done is: [double](./soln08-double.js). The binary just blew me away.
