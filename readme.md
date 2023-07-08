@@ -6,6 +6,6 @@ The format for files is
 ```
 soln00-problemDescription.js
 ```
-Never too late to sharpen your skills. Here's a link for [Codewars](www.codewars.com/r/PhMNrA) if you're interested. 
+Never too late to sharpen your skills. Here's a link for [Codewars](https://www.codewars.com/r/PhMNrA) if you're interested. 
 
 My current favorite one I have done is: [double](./soln08-double.js). The binary just blew me away.
