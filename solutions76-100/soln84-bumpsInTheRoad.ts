@@ -34,5 +34,5 @@ export function bump(x: string): string{
     for (let piece of x){
         if (piece === "n") sum++ 
     }
-    return sum >= 15 ? "Car Dead" : "Woohoo!"
+    return sum > 15 ? "Car Dead" : "Woohoo!"
   }
