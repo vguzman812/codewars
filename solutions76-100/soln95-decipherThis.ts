@@ -17,6 +17,8 @@
  * 
  * @pseudocode
  * do stuff
+ * do more stuff
+ * 
  */
 
 function isNumber(str) {
