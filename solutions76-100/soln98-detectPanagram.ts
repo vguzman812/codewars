@@ -44,7 +44,8 @@ const isPangram = (phrase: string): boolean => {
     "z",
   ]);
   let count = 0;
-  let phraseSet = new Set(phrase);
+  let phraseSet = new Set(phrase.toLowerCase());
+  console.log;
   phraseSet.forEach((character) => {
     if (alphabet.has(character)) {
       count++;
